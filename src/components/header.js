@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Cart from "./cart";
 
 class Header extends Component {
   render() {
